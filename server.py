@@ -1,7 +1,7 @@
 from flask import Flask
 
 PORT = 8000
-MESSAGE = "Welcome to DevOps Project using Docker Jenkins\n"
+MESSAGE = "Welcome to DevOps Project using Docker Jenkins..Hello to all Devops\n"
 
 app = Flask(__name__)
 
