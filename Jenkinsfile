@@ -18,7 +18,7 @@ pipeline {
 
       steps {
 
-        git 'https://github.com/Neelam-Giri/Docker-Jenkins-Demo/edit/master/Jenkinsfile'
+        git 'https://github.com/Neelam-Giri/Docker-Jenkins-Demo'
 
       }
 
